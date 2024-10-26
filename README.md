@@ -1,1 +1,1 @@
-First website since i was in secondary school
+ - The first website i made (from the old day when i start coding): https://winter24.github.io/banhdangiannambo.github.io/
